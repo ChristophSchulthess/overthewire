@@ -1,6 +1,6 @@
 {
   "basename": "leviathan",
-  "intial_password": "leviathan0",
+  "initial_password": "leviathan0",
   "hostname": "leviathan.labs.overthewire.org",
   "type": "ssh",
   "port": 2223
